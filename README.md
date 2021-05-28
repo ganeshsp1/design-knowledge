@@ -47,3 +47,28 @@ Knowledge Repository
 ![MicrosoftTeams-image (13)](https://user-images.githubusercontent.com/3330429/119084553-a03c7000-ba1f-11eb-9961-5f01d9b8952d.png)
 ![MicrosoftTeams-image (14)](https://user-images.githubusercontent.com/3330429/119084557-a2063380-ba1f-11eb-9555-f5884d3e4e55.png)
 ![MicrosoftTeams-image (15)](https://user-images.githubusercontent.com/3330429/119084565-a3cff700-ba1f-11eb-9aeb-d834fb08e4b8.png)
+
+### Day 5
+- Visitor Pattern
+- Double Dispatch
+- Circuit breaker
+
+### Day 6
+- Bridge Pattern
+- ![MicrosoftTeams-image (17)](https://user-images.githubusercontent.com/3330429/119948959-ff1d5e80-bfb6-11eb-9a45-c6351ef43030.png)
+- ![MicrosoftTeams-image (18)](https://user-images.githubusercontent.com/3330429/119949142-355ade00-bfb7-11eb-87cb-a16063d7cf50.png)
+- ![MicrosoftTeams-image (20)](https://user-images.githubusercontent.com/3330429/119949151-3724a180-bfb7-11eb-974b-f5f1cc287adf.png)
+
+### Day 7
+- Eventlistener
+- Observer
+- Proxy
+- ![MicrosoftTeams-image (22)](https://user-images.githubusercontent.com/3330429/119949304-60ddc880-bfb7-11eb-9854-0016a9ab45a7.png)
+- ![MicrosoftTeams-image (25)](https://user-images.githubusercontent.com/3330429/119949417-7bb03d00-bfb7-11eb-9871-6b23df7db169.png)
+- ![MicrosoftTeams-image (23)](https://user-images.githubusercontent.com/3330429/119949420-7ce16a00-bfb7-11eb-94a6-bfc015475b4d.png)
+- ![MicrosoftTeams-image (24)](https://user-images.githubusercontent.com/3330429/119949422-7ce16a00-bfb7-11eb-943b-a0710ca7cbfc.png)
+
+
+
+
+
