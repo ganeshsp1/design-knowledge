@@ -68,6 +68,9 @@ Knowledge Repository
 - ![MicrosoftTeams-image (23)](https://user-images.githubusercontent.com/3330429/119949420-7ce16a00-bfb7-11eb-94a6-bfc015475b4d.png)
 - ![MicrosoftTeams-image (24)](https://user-images.githubusercontent.com/3330429/119949422-7ce16a00-bfb7-11eb-943b-a0710ca7cbfc.png)
 
+### Day 8
+Builder 
+![MicrosoftTeams-image (27)](https://user-images.githubusercontent.com/3330429/119960603-c3889180-bfc2-11eb-9969-78b33d4cba12.png)
 
 
 
