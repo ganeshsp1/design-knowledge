@@ -69,9 +69,12 @@ Knowledge Repository
 - ![MicrosoftTeams-image (24)](https://user-images.githubusercontent.com/3330429/119949422-7ce16a00-bfb7-11eb-943b-a0710ca7cbfc.png)
 
 ### Day 8
-Builder 
+ - Builder 
+- Memento
 ![MicrosoftTeams-image (27)](https://user-images.githubusercontent.com/3330429/119960603-c3889180-bfc2-11eb-9969-78b33d4cba12.png)
 
 
-
+### Day 10
+- Flyweight Design pattern - only pattern concerened with reduction of memory usage
+- Abstract Factory pattern
 
